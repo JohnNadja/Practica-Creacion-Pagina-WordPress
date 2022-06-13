@@ -71,7 +71,9 @@ Marquetplace es una plataforma que permite a los usuarios crear sus propias apli
         |Contraseña| Introducir la contraseña que se usará para acceder a la página|
         |Correo electrónico| Introducir el correo electrónico con el que se gestionará la ágina web|
         |Visibilidad en los motores de búsqueda| Marcar la casilla ya que, por esta ocasión, la página es para fines de prueba|
+        
         ![wordpress-install](https://github.com/JohnNadja/Practica-Creacion-Pagina-WordPress/blob/main/images/wordpress-install.gif)
+    
     - Pulsamos el botón de **Instalar WordPress** y deberá aparecer una ventana similar a la siguiente:
     ![web-success](https://github.com/JohnNadja/Practica-Creacion-Pagina-WordPress/blob/main/images/web-success.png)
 
