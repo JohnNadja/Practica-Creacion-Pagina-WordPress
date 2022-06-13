@@ -23,6 +23,7 @@ Considerado lo anterior, se procederá a usar un servicio que proporciona el por
 ---
 ## Marketplace
 ![marketplace-icon](https://github.com/JohnNadja/Practica-Creacion-Pagina-WordPress/blob/main/images/store-marketplace.png)
+
 Marquetplace es una plataforma que permite a los usuarios crear sus propias aplicaciones y servicios, desde simples sitios web hasta aplicaciones complejas. Dependienndo de lo que se quiere llevar a cabo para crear una aplicación o servicio, se neceita de una buena conciencia de la nube y cómo funciona en ella. Para ser específicos, en cuanto a la seguridad y la privacidad y políticas de Azure.
 
 ---
